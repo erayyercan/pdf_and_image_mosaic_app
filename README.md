@@ -126,7 +126,7 @@ python mozaic.py
 
 ## License
 
-This project is open-source and available under the [MIT License](https://opensource.org/license/mit).
+This project is open-source and available under the [MIT License](https://github.com/erayyercan/pdf_and_image_mosaic_app/blob/main/LICENSE).
 
 ---
 
