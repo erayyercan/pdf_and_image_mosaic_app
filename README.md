@@ -1,4 +1,4 @@
-# Mozaic Project
+# Mosaic Project
 
 ## Overview
 The **Mozaic Project** is a Python-based application that applies a mosaic effect to detected faces in image or PDF files. It uses OpenCV for face detection and PyMuPDF for handling PDF files, making it versatile for processing various file formats. The processed images can be saved with user-defined file names.
