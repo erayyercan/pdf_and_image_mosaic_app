@@ -7,7 +7,7 @@ import os
 # select file from user
 
 def get_file_path():
-    Tk().withdraw()  # Tkinter penceresini gizle
+    Tk().withdraw()  # hide Tkinter window
     file_path = filedialog.askopenfilename(title="Bir Dosya Seçin", 
                                            filetypes=[("Image files", "*.jpg;*.jpeg;*.png;*.bmp;*.tiff;*.gif"), 
                                                      ("PDF files", "*.pdf")])
